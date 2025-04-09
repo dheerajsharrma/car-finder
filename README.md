@@ -20,3 +20,13 @@ This is a production-ready Next.js/React.js application for a Car Finder app.
    ```bash
    git clone <repo-url>
    cd car-finder
+
+## For run project
+
+1. Install Node:
+   ```bash
+   npm install
+
+2. Run program
+   ```bash
+   npm run dev
